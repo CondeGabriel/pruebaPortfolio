@@ -1,0 +1,49 @@
+
+.argentinaprograma{
+    width: 300px;
+    text-align: left;
+    margin: 15px;
+}
+
+.rrss{
+    height: 35px;
+    margin: 10px;
+}
+.redes{
+    text-align: center;
+    
+}
+.login{
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+    
+    }
+.botonlogin{
+    color: white;
+    background-color: #446c9c;
+    border-radius: 5%;
+}
+.contenedorsuperior {
+    display: table;
+    width: 100%; /*Optional*/
+    table-layout: fixed; /*Optional*/
+    border-spacing: 10px; /*Optional*/
+}
+.Column {
+    display: table-cell;
+    
+}
+.logoargentina{
+    display: table-cell;
+    
+}
+.redes{
+    display: table-cell;
+    
+}
+input{
+    box-sizing: border-box;
+    margin: 10px;    
+    color: #446c9c;
+}
